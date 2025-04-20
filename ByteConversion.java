@@ -36,6 +36,7 @@ public class ByteConversion {
         if(bytes > 0){
             System.out.println(bytes + " Bytes");
         }
+        
         //Closing the scanner
         sc.close();
     }
